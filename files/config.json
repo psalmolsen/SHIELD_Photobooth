@@ -1,0 +1,10 @@
+{
+  "watch_folder": "C:/Users/USER/Pictures/Camera Roll",
+  "templates_folder": "c:\\Users\\USER\\Downloads\\files\\templates",
+  "output_folder": "C:\\Users\\USER\\Downloads\\files\\forPrint",
+  "printed_folder": "C:\\Users\\USER\\Downloads\\files\\Printed",
+  "printer": "",
+  "paper": "4x6_two_strips",
+  "auto_print": true,
+  "dpi": 300
+}

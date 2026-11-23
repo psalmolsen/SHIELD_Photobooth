@@ -1,0 +1,6 @@
+pillow
+numpy
+watchdog
+pywin32
+pyinstaller
+scipy
